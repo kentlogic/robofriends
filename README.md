@@ -1,8 +1,20 @@
+### `This project was created as part of a web developer course I took during the ECQ.`
+
+You may access the deployed project on https://kentlogic.github.io/robofriends/
+
+### The following API was used for the data:
+https://jsonplaceholder.typicode.com/users
+
+<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+Installs the required packages used in the project.
+
 
 ### `npm start`
 
@@ -25,6 +37,21 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
+### `gh-pages`
+
+To deploy to Github pages, update the following on the package.json file:
+
+> "homepage": "https://myusername.github.io/my-app"<br>
+>  Example: "https://kentlogic.github.io/robofriends",
+
+>"scripts": {
+>+   "predeploy": "npm run build",
+>+   "deploy": "gh-pages -d build",
+>    "start": "react-scripts start",
+>    "build": "react-scripts build",
+    
+ Once done, run <strong>"npm run deploy"</strong>
+    
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`

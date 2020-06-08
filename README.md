@@ -1,4 +1,4 @@
-### `This project was created as part of a web developer course I took during the ECQ.`
+### This project was created as part of a web developer course I took during the ECQ.
 
 You may access the deployed project on https://kentlogic.github.io/robofriends/
 

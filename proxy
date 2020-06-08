@@ -1,0 +1,2 @@
+  //"proxy": "https://kentlogic.github.io/robofriends",
+  "proxy": "https://localhost:3004/robofriends",

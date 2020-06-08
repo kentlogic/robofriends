@@ -10,3 +10,19 @@ h1 {
 	font-weight: 200;
 	color:#0ccac3;
 }
+
+p { 
+	font-family: -apple-system, BlinkMacSystemFont,
+               'avenir next', avenir,
+               helvetica, 'helvetica neue',
+               ubuntu,
+               roboto, noto,
+               'segoe ui', arial,
+               sans-serif;
+    color: #0ccac3;
+    font-weight: bold;
+ }
+
+ input {
+ 	border-radius: 11px;
+ }

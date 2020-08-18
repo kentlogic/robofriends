@@ -1,6 +1,10 @@
-### This project was created as part of a web developer course I took during the ECQ.
 
-You may access the deployed project on https://kentlogic.github.io/robofriends/
+![Screenshot](./robofriends_screenshot.png)
+# Robofriends
+### This project was created as part of a web developer course I took during the ECQ period. It's my first react + redux project. For now, it only has the search function.
+
+
+You may access the live version [here](hehttps://kentlogic.github.io/robofriends/re).
 
 ### The following API was used for the data:
 https://jsonplaceholder.typicode.com/users
@@ -8,9 +12,9 @@ https://jsonplaceholder.typicode.com/users
 <br>
 
 ### Clone or download the repository:
-<br>
-![Screenshot](https://raw.githubusercontent.com/kentlogic/robofriends/master/clone.png)
 
+![Screenshot](./clone.png)
+ 
 
 ### Open the terminal inside the project directory and run `npm install`
 Installs the required packages used in the project.

@@ -4,7 +4,7 @@
 ### This project was created as part of a web developer course I took during the ECQ period. It's my first react + redux project. For now, it only has the search function.
 
 
-You may access the live version [here](hehttps://kentlogic.github.io/robofriends/re).
+You may access the live version [here](https://kentlogic.github.io/robofriends/).
 
 ### The following API was used for the data:
 https://jsonplaceholder.typicode.com/users
